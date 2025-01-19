@@ -36,7 +36,7 @@ With a clean dataset in hand, I conducted a comprehensive exploratory analysis t
  - Temporal Patterns: Analyzed the distribution of orders by day and time to understand peak shopping periods, which can inform inventory and marketing strategies.
 
 **3. Data Mining & Future Analysis**
-Though not yet implemented, I plan to apply market basket analysis to further explore product relationships and co-purchase behaviors. By leveraging algorithms such as Apriori, I can uncover frequently purchased product combinations and generate actionable recommendations for cross-selling and product bundling strategies.
+Though not yet implemented, I plan to apply market basket analysis to explore product relationships and co-purchase behaviors further. By leveraging algorithms such as Apriori, I can uncover frequently purchased product combinations and generate actionable recommendations for cross-selling and product bundling strategies.
 
    
 **4. Clustering by Consumer Behavior**
